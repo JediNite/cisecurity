@@ -1,3 +1,4 @@
 ---
 cisecurity::redhat6::benchmark_version: 'v2.10'
 cisecurity::redhat7::benchmark_version: 'v2.20'
+cisecurity::redhat8::benchmark_version: 'v1.0.0'
